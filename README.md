@@ -6,8 +6,7 @@
 
 ## Available Tracker
 
-- COVID-19 / Coronavirus
-- _will add more..._
+- COVID-19 / Coronavirus / Novel COVID
 
 ## Featured By
 
@@ -19,22 +18,46 @@ It uses an API to collect data from a reliable data source and returns the value
 
 > Data Source: <https://www.worldometers.info/coronavirus>
 
+## Installation
+
+To be able to start using this plugin just [download the latest release here](https://github.com/warengonzaga/wp-disease-tracker/releases/latest).
+
+- Upload the plugin (.zip file) to the /wp-content/plugins/ directory.
+- Activate the WP Disease Tracker WordPress plugin through the ‘Plugins’ menu in WordPress.
+- Use the shortcodes from WP Disease Tracker into your posts or pages..
+
 ## Shortcode Usage
 
 ### COVID-19 Global Tracking
+
+Here's the basic usage for the covid-19 global tracking using shortcode.
 
 ```php
 // global cases
 [covid19_global data="cases"]
 
-// global recoveries
-[covid19_global data="recovered"]
-
 // global deaths
 [covid19_global data="deaths"]
 
-// more data coming soon...
+// global recoveries
+[covid19_global data="recovered"]
+
+// global active
+[covid19_global data="active"]
+
+// global critical
+[covid19_global data="critical"]
+
+// global tests
+[covid19_global data="tests"]
+
+// global population
+[covid19_global data="population"]
+
+// more value for data attribute soon...
 ```
+
+For more information about the value for ``data`` atribute please [Visit Wiki](https://github.com/warengonzaga/wp-disease-tracker/wiki).
 
 ## Contributing
 
