@@ -32,3 +32,23 @@ function covid19_tracker_global($attr) {
 
 // wordpress hook
 add_shortcode('covid19_global', 'covid19_tracker_global');
+
+//Covid19 PH
+
+function covid19_tracker_philippines($phattr) {
+    // fetching ph api from server 
+    $covidph_api = file_get_contents('https://disease.sh/v3/covid-19/countries/philippines?allowNull=true');
+    $covidph_data = json_decode($covidph_api, true);
+
+    shortcode_atts(
+        array(
+            'phdata' => 'cases'
+        ), $phattr
+    );
+    // finalize result and format the value
+    $phresults = number_format($covidph_data[$phattr['phdata']]);
+    // show the resulting data
+    return $phresults;
+}
+
+add_shortcode('covid19_ph', 'covid19_tracker_philippines');
