@@ -121,4 +121,4 @@ WP Disease Tracker is Developed and Maintained by **Waren Gonzaga**
 
 ---
 
-**</>** with **<3** by **Waren Gonzaga**
+:computer: with :heart: by **Waren Gonzaga** with **YHWH**
