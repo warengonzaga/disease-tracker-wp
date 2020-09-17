@@ -73,11 +73,24 @@ If you're facing a problem in using WP Disease Tracker please let me know by cre
 - Submit to WordPress plugin repo
 - More... (have suggestions? let me know!)
 
+## Sources
+
+- API Provider from [NovelCOVID API](https://github.com/NovelCOVID/API)
+- Data Provider from [WorldMeter](https://www.worldometers.info/coronavirus)
+
+## Resources
+
+- <https://github.com/NovelCOVID/awesome-novelcovid>
+- <https://github.com/soroushchehresa/awesome-coronavirus>
+- <https://github.com/fight-covid19/community>
+
+---
+
 ## Community
 
 Wanna see other projects I made? Join today!
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://bmc.xyz/l/wgofficialds)
+[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner3)](https://discord.link/warengonzaga)
 
 ## Donate or Support
 
@@ -85,30 +98,13 @@ If you love this project please consider to support the development and help me 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge)](https://paypal.me/warengonzagaofficial) [![Support](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge)](https://buymeacoff.ee/warengonzaga)
 
+## Related Project
+
+[![COVID-19 Tracker CLI](https://readme-stats.warengonzaga.com/api/pin/?username=trackercli&repo=covid19-tracker-cli)](https://github.com/trackercli/covid19-tracker-cli)
+
 ## License
 
 WP Disease Tracker is licensed under GNU General Public License v2 - <https://opensource.org/licenses/GPL-2.0>
-
-## Sources
-
-- API Provider from [NovelCOVID API](https://github.com/NovelCOVID/API)
-- Data Provider from [WorldMeter](https://www.worldometers.info/coronavirus)
-
-## Related Projects
-
-- <https://github.com/trackercli/covid19-tracker-cli>
-
-## Other Projects
-
-- [WiFi Passview](https://github.com/warengonzaga/wifi-passview) is an open-source batch script-based program that can recover your WiFi Password easily in seconds.
-
-- [WRN Cleaner](https://github.com/warengonzaga/wrn-cleaner) is an all in one batch script based native PC maintenance and cleaner for Windows.
-
-## Resources
-
-- <https://github.com/NovelCOVID/awesome-novelcovid>
-- <https://github.com/soroushchehresa/awesome-coronavirus>
-- <https://github.com/fight-covid19/community>
 
 ## Author
 
@@ -117,8 +113,8 @@ WP Disease Tracker is Developed and Maintained by **Waren Gonzaga**
 - **Facebook:** <https://facebook.com/warengonzagaofficial>
 - **Twitter:** <https://twitter.com/warengonzaga>
 - **Website:** <https://warengonzaga.com>
-- **Email:** dev(at)warengonzaga[.]com
+- **Business** <https://warengonzaga.co>
 
 ---
 
-:computer: with :heart: by **Waren Gonzaga** with **YHWH**
+:computer: with :heart: by **Waren Gonzaga** with **YHWH** :pray:
