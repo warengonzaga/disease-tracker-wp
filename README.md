@@ -113,7 +113,7 @@ WP Disease Tracker is Developed and Maintained by **Waren Gonzaga**
 - **Facebook:** <https://facebook.com/warengonzagaofficial>
 - **Twitter:** <https://twitter.com/warengonzaga>
 - **Website:** <https://warengonzaga.com>
-- **Business** <https://warengonzaga.co>
+- **Business:** <https://warengonzaga.co>
 
 ---
 
